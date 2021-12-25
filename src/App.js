@@ -1,8 +1,8 @@
-
+import List from './Components/List.jsx'
 function App() {
   return (
     <div >
-     Hello
+      <List />
     </div>
   );
 }
